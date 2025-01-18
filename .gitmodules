@@ -1,0 +1,12 @@
+[submodule "steve-jobs_cards"]
+	path = steve-jobs_cards
+	url = git@github.com:markshawn2020/steve-jobs_cards.git
+[submodule "steve-jobs_votes"]
+	path = steve-jobs_votes
+	url = git@github.com:markshawn2020/steve-jobs_votes.git
+[submodule "steve-jobs_votes_3"]
+	path = steve-jobs_votes_3
+	url = ./steve-jobs_votes_3
+[submodule "steve-jobs_votes_2"]
+	path = steve-jobs_votes_2
+	url = ./steve-jobs_votes_2
