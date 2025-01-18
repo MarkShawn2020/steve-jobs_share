@@ -1,6 +1,6 @@
 # 南川读书与创业跨年分享会 · 乔布斯传
 
-![image.png](https://poketto.oss-cn-hangzhou.aliyuncs.com/20250117185623.png?x-oss-process=image/resize,w_800)
+![image.png](https://poketto.oss-cn-hangzhou.aliyuncs.com/20250117185623.png?x-oss-process=image/resize,w_800/quality,q_80)
 
 
 本文目录：
@@ -218,24 +218,13 @@
 - [Lex Fridman (@lexfridman) / X](https://x.com/lexfridman) （todo: 搬运）
 	- [Max Tegmark: Life 3.0 | Lex Fridman Podcast #1](https://www.youtube.com/watch?v=Gi8LUnhP5yU&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4&index=450)，直接从油管开始
 	- 
-- 
 
-## Think Difference Timestamps
+## 相关代码
 
-- [阿尔伯特·爱因斯坦](https://en.wikipedia.org/wiki/Albert_Einstein "Albert Einstein"): 物理学家。0-6
-- [鲍勃·迪伦](https://en.wikipedia.org/wiki/Bob_Dylan "Bob Dylan"): 著名音乐人，诗人。7-9
-- [小马丁·路德·金](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr. "Martin Luther King Jr."): 美国民权领袖。10-12
-- [理查德·布兰森](https://en.wikipedia.org/wiki/Richard_Branson "Richard Branson"): 英国爵士，超级富翁第一个驾驶热气球飞跃大西洋。13-17
-- [约翰·列侬](https://en.wikipedia.org/wiki/John_Lennon "John Lennon")（与[小野洋子](https://en.wikipedia.org/wiki/Yoko_Ono "Yoko Ono")）: 披头四乐团成员。18-20
-- [巴克明斯特富勒](https://en.wikipedia.org/wiki/Buckminster_Fuller "Buckminster Fuller"): 美国建筑师。21-23
-- [托马斯·爱迪生](https://en.wikipedia.org/wiki/Thomas_Edison "Thomas Edison"): 美国企业家发明家。24-26
-- [穆罕默德·阿里](https://en.wikipedia.org/wiki/Muhammad_Ali "Muhammad Ali"): 重量级拳王。27-28
-- [特德·特纳](https://en.wikipedia.org/wiki/Ted_Turner "Ted Turner"): CNN创办人。29-30
-- [玛丽亚·卡拉斯](https://en.wikipedia.org/wiki/Maria_Callas "Maria Callas"): 希腊女高音歌唱家。31-33
-- [圣雄甘地](https://en.wikipedia.org/wiki/Mahatma_Gandhi "Mahatma Gandhi"): 印度民主领袖。34-36
-- [阿米莉亚·埃尔哈特](https://en.wikipedia.org/wiki/Amelia_Earhart "Amelia Earhart"): 第一个单人驾驶飞机飞越大西洋的人。37-40
-- [阿尔弗雷德希区柯克](https://en.wikipedia.org/wiki/Alfred_Hitchcock "Alfred Hitchcock"): 著名导演，悬念电影大师。41-42
-- [玛莎·格雷厄姆](https://en.wikipedia.org/wiki/Martha_Graham "Martha Graham"): 美国舞蹈家。43-44
-- [吉姆·汉森](https://en.wikipedia.org/wiki/Jim_Henson "Jim Henson")（与[青蛙克米特](https://en.wikipedia.org/wiki/Kermit_the_Frog "Kermit the Frog")）: 电视表演艺术家。45-46
-- [弗兰克·劳埃德·赖特](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright "Frank Lloyd Wright"): 著名建筑师。47-48
-- [巴勃罗·毕加索](https://en.wikipedia.org/wiki/Pablo_Picasso "Pablo Picasso"): 抽象画派大师。49-51
+- 主代码：[MarkShawn2020/steve-jobs_share](https://github.com/markshawn2020/steve-jobs_share)
+- 投票程序：[MarkShawn2020/steve-jobs_share_vote](https://github.com/markshawn2020/steve-jobs_share_vote)
+- 卡片程序：[MarkShawn2020/steve-jobs_share_card](https://github.com/markshawn2020/steve-jobs_share_card)
+
+## 后记
+
+比较遗憾的是，花了一个通宵加一个白天搞的投票程序最后是完工了，但是没有在现场跑起来，因为条件不支持我在讲台正前方演示电脑，网速也有问题，导致卡住以至于怀疑是程序问题，声音也有问题，最终只能不了了之，后续会以公众号文章形式弥补。
