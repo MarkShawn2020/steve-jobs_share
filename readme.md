@@ -217,7 +217,6 @@
 - [Walter Isaacson (@WalterIsaacson) / X](https://x.com/WalterIsaacson)
 - [Lex Fridman (@lexfridman) / X](https://x.com/lexfridman) （todo: 搬运）
 	- [Max Tegmark: Life 3.0 | Lex Fridman Podcast #1](https://www.youtube.com/watch?v=Gi8LUnhP5yU&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4&index=450)，直接从油管开始
-	- 
 
 ## 相关代码
 
